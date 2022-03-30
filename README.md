@@ -8,9 +8,11 @@
 
 <a href="https://www.linkedin.com/in/simondunkelman/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@sjdunkelman"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
 
-### 📚 Latest Blog Posts
+### 📚 I teach founders how to build startup @ <a href="https://www.flatpackfintech.com">FlatpackFintech</a>
+Coming soon:
+* How to build a B2B App
+* How to generate NFT Metadata JSON using Python
 
-* How to generate NFT collection metadata using Python [Coming Soon]
 
 ### 🚀 Recent Projects
 
