@@ -6,7 +6,7 @@
  
 ## The best place to see what I'm up to is my <a href="https://www.dunkelman.xyz">personal site.</a>
 
-I'm also on (to a lesser extent):
+I'm also on:
 
 <a href="https://www.linkedin.com/in/simondunkelman/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.twitter.com/flatpackfintech"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
